@@ -1,4 +1,4 @@
-### 
+### More debugging for kaihofstetter/docker-wordpress-xdebug
 
 
 This is an extension of the excellent
